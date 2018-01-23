@@ -1,0 +1,22 @@
+{
+  "name": "@rijk/prepositions",
+  "version": "1.0.0",
+  "description": "An array of (popular) prepositions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rijkvanzanten/prepositions.git"
+  },
+  "keywords": [
+    "prepositions"
+  ],
+  "author": "Rijk van Zanten <rijkvanzanten@me.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rijkvanzanten/prepositions/issues"
+  },
+  "homepage": "https://github.com/rijkvanzanten/prepositions#readme"
+}
